@@ -433,12 +433,12 @@
   }
   #changing-text-el::before {
     content: "";
-    animation: profile 12s infinite;
+    animation: profile 13s infinite;
   }
   
   @keyframes profile {
     0% {
-      content: "Software Engineer";
+      content: "Machine Learning Engineer";
       color: #8533d1;
     }
     25% {
@@ -454,7 +454,7 @@
       color: #0099ff;
     }
     100% {
-      content: "Machine Learning Engineer";
+      content: "Software Engineer";
       color: #841ce6;
     }
   }
